@@ -1,0 +1,3 @@
+[submodule "xtUMLtoJava"]
+	path = xtUMLtoJava
+	url = https://github.com/memettekkee/xtUML-to-Java.git
