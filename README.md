@@ -3,4 +3,4 @@
 
 [Yazid](https://github.com/yazidazfa)
 
-[- textual, executable, and translatable UML](http://txtuml.inf.elte.hu/wiki/doku.php?id=start)
+- [textual, executable, and translatable UML](http://txtuml.inf.elte.hu/wiki/doku.php?id=start)
