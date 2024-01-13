@@ -1,3 +1,3 @@
 # Tes-submodule-2
-[halo](https://www.google.com)
+[halo](http://txtuml.inf.elte.hu/wiki/doku.php?id=start)
 
